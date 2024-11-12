@@ -18,14 +18,14 @@
         <pre style="text-align:center;font-size:70px;">I student grade 2 in University of Phayao  and majoring in Computer Science. 
 I have developed prototype application and designed UX/UI.</pre>
         <hr>
-        <pre class="float-left" style="font-size: 90px;">     EDUCATION                                               PROJECT</pre>
+        <pre class="float-left" style="font-size: 90px;">               EDUCATION                                               PROJECT</pre>
         <Pre  style="font-size: 70px;margin-top:1px;color:rgb(85, 85, 85);">   Bachelor of Science                       I student grade 2 in University of Phayao  and majoring in 
-   Computer Science                       Computor Science.I have developed prototype applications 
-   University Of Phayao                   and designed UX/UI     
-   2023 - now</Pre>
-    <pre class="float-left" style="font-size: 90px;">     SKILL                                                       LANGUAGE</pre>
-    <pre style="font-size: 70px;margin-top:1px;color:rgb(85, 85, 85);">    •Thai                                       •Design UX/UI Ruammit application prototype
-    •English                                   •Ruammit application prototype
+           Computer Science                       Computor Science.I have developed prototype applications 
+           University Of Phayao                   and designed UX/UI     
+           2023 - now</Pre>
+    <pre class="float-left" style="font-size: 90px;">                 SKILL                                                       LANGUAGE</pre>
+    <pre style="font-size: 70px;margin-top:1px;color:rgb(85, 85, 85);">            •Thai                                       •Design UX/UI Ruammit application prototype
+             •English                                   •Ruammit application prototype
     </pre>
     <hr>
     <h2 style="font-size: 90px;text-align:center;font-family:Times;">Contract</h2>

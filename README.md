@@ -12,8 +12,8 @@
     </head>
     <body style="background-color: rgb(255, 243, 228);">
         <h1 style="font-size: 100PX; text-align:center;">RESUME</h1>
-        [https://github.com/danuphonChatphueak/danuphonChatphueak.github.io/blob/main/Professional%20Minimalist%20CV%20Resume.jpg
-        ![file](https://github.com/user-attachments/assets/7fe28c7d-7431-4690-9048-078a8d4744ed)](https://github.com/danuphonChatphueak/danuphonChatphueak.github.io/blob/main/Professional%20Minimalist%20CV%20Resume.jpg)
+        https://teams.microsoft.com/l/message/48:notes/1730279581968?context=%7B%22contextType%22%3A%22chat%22%7D
+
         <pre style="font-family: fantasy;font-size:150px;background-color:rgb(124, 11, 200); margin-top:10px;" class="float-left"> DANUPHON<BR> CHATPHUEAK</pre>
         <h2 style="font-size: 90px;text-align:center;font-family:Times;">Profile</h2>
         <pre style="text-align:center;font-size:70px;">I student grade 2 in University of Phayao  and majoring in Computer Science. 

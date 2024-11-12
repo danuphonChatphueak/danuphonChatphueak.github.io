@@ -12,6 +12,7 @@
     </head>
     <body style="background-color: rgb(255, 243, 228);">
         <h1 style="font-size: 100PX; text-align:center;">RESUME</h1>
+        https://github.com/danuphonChatphueak/danuphonChatphueak.github.io/blob/main/Professional%20Minimalist%20CV%20Resume.jpg
         <img src="[C:\Users\paipp\Downloads\file.png" class="float-right](https://github.com/danuphonChatphueak/danuphonChatphueak.github.io/blob/main/Professional%20Minimalist%20CV%20Resume.jpg)" style="width: 350px; margin-top:10px; margin-right:300px;">
         <pre style="font-family: fantasy;font-size:150px;background-color:rgb(124, 11, 200); margin-top:10px;" class="float-left"> DANUPHON<BR> CHATPHUEAK</pre>
         <h2 style="font-size: 90px;text-align:center;font-family:Times;">Profile</h2>
